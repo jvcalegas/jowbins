@@ -1,4 +1,4 @@
-### Salve galerinha! Eu sou o Jowbins. 👋
+## <div align="center">Salve galerinha! Eu sou o Jowbins. 👋</div>
 
 - 💻 Trabalho com informática para crianças em uma escola
 - 👨‍🎓 Estudando TI 
